@@ -6,3 +6,4 @@ Home for planning exercise cards:
 1) Translations
 2) Card images
 3) Instructions
+4) Descriptions

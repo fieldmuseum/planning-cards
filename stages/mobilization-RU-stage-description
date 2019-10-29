@@ -1,6 +1,6 @@
 v1 VALUES; EN:
 BEFORE - Those processes (tasks) performed as a precursor to the main digitization/mobilization effort as defined in the project scope.;
-DURING - Those processes (tasks) required to digitize ( i.e. create, acquire and/or prepare data) ready for mobilization.;
+DURING - Those processes (tasks) required to digitize (i.e. create, acquire and/or prepare) data ready for mobilization.;
 AFTER - Those processes (tasks) performed following the completion of digitization as defined by the project scope.
 
 v2 VALUES; EN:
@@ -12,9 +12,9 @@ CLOSING - Those processes (tasks) performed to finalize all activities across al
 
 
 V1 ЗНАЧЕНИЯ; RU:
-ДО - Those processes (tasks) performed as a precursor to the main digitization/mobilization effort as defined in the project scope.;
-В ТЕЧЕНИЕ - Those processes (tasks) required to digitize ( i.e. create, acquire and/or prepare data) ready for mobilization.;
-ПОСЛЕ - Those processes (tasks) performed following the completion of digitization as defined by the project scope.
+ДО - Процессы (задания), которые выполняются в качестве предварительных по отношению к действиям по оцифровке/мобилизации в соответствии с охватом проекта;
+В ТЕЧЕНИЕ - Процессы (задания), необходимые для оцифровки (т.е. создание, получение и/или подготовка) данных для мобилизации.;
+ПОСЛЕ - Процессы (задания), которые выполняются по окончании оцифровки в соответствии с охватом проекта.
 
 v2 ЗНАЧЕНИЯ; RU:
 ЗАПУСК – Процессы (задания), которые выполняются для определения границ проекта или новой фазы проекта, и получение авторизации на старт проекта или фазы проекта.

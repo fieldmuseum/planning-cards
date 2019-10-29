@@ -1,10 +1,12 @@
-VALUES:
+V1 Values; EN:
+BEFORE - Those processes (tasks) performed as a precursor to the main digitization/mobilization effort as defined in the project scope.
+DURING - Those processes (tasks) required to digitize ( i.e. create, acquire and/or prepare data) ready for mobilization.  
+AFTER - Those processes (tasks) performed following the completion of digitization as defined by the project scope. 
+
+V2 Values; EN:
 INITIATING - Those processes (tasks) performed to define a new project or a new phase of an existing project by obtaining authorization to start the project or phase.
 PLANNING - Those processes (tasks) required to establish the scope of the project, refine the objectives and define the course of action required to attain the objectives (goals) that the project was undertaken to achieve.
 EXECUTING - Those processes (tasks) performed to complete the work defined in the project management plan to satisfy the project specifications.
 MONITORING - Those processes (tasks) required to track, review and regulate the progress and performance of  the project; identify any areas in which changes to the plan are required; and initiate the corresponding changes.
 CLOSING - Those processes (tasks) performed to finalize all activities across all Process Groups (stages) to formally close the project or phase.
 
-BEFORE - Those processes (tasks) performed as a precursor to the main digitization/mobilization effort as defined in the project scope.
-DURING - Those processes (tasks) required to digitize ( i.e. create, acquire and/or prepare data) ready for mobilization.  
-AFTER - Those processes (tasks) performed following the completion of digitization as defined by the project scope. 

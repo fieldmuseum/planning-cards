@@ -1,7 +1,7 @@
 v1 VALUES; EN:
-BEFORE - ;
-DURING - ;
-AFTER - 
+BEFORE - Those processes (tasks) performed as a precursor to the main digitization/mobilization effort as defined in the project scope.;
+DURING - Those processes (tasks) required to digitize ( i.e. create, acquire and/or prepare data) ready for mobilization.;
+AFTER - Those processes (tasks) performed following the completion of digitization as defined by the project scope.
 
 v2 VALUES; EN:
 INITIATING - Those processes (tasks) performed to define a new project or a new phase of an existing project by obtaining authorization to start the project or phase.

@@ -1,0 +1,14 @@
+v1 VALUES; EN: SPECIMEN/OBJECT STAGING; CURATION; DATA REVIEW; DATABASE REVIEW; HIRING STAFF; EQUIPMENT PURCHASING; EQUIPMENT SETUP; 
+DATABASE MODIFICATIONS; IMAGE CAPTURE; TRANSCRIPTION; DATA CLEANING; QUALITY CHECKING; PUBLISHING; GEOREFERENCING; RE-PUBLISHING;  
+PROVISIONING STORAGE; BUDGETING; SPECIMEN/OBJECT RETURN; DATA STANDARDS
+
+v2 VALUES; EN: APPLY FOR GRANTS; NEW PROTOCOLS; REFINE GOALS, REPORTING; IMAGE CHECKING; PROJECT ADMINISTRATION; ELECTRONIC STORAGE; PHYSICAL STORAGE
+
+
+v1 ЗНАЧЕНИЯ; RU: Извлечение образцов из фондовых хранилищ; Курирование; Обзор и оценка данных; Обзор (оценка состояния) базы данных; Наем персонала; Покупка оборудования; Установка оборудования; 
+Модификация базы данных; Получение изображений; Транскрибирование - расшифровка рукописных этикеток; Проверка и верификация данных; Оценка качества качества данных; Публикация; Геопривязка образцов; Публикация новой версии;  
+Предоставление хранилища для данных; Составление бюджета; Возвращение образцов в фондовые хранилища; Стандартизация данных
+
+v2 ЗНАЧЕНИЯ; RU: ПОДАЧА ЗАЯВОК НА ГРАНТЫ; НОВЫЕ ПРОТОКОЛЫ; УТОЧНЕНИЕ ЦЕЛЕЙ, ОТЧЕТЫ; ПРОВЕРКА ИЗОБРАЖЕНИЙ; РУКОВОДСТВО ПРОЕКТОМ; ЭЛЕКТРОННОЕ ХРАНЕНИЕ; ФИЗИЧЕСКОЕ ХРАНЕНИЕ
+
+ВЫВЕДЕНО ИЗ ОБРАЩЕНИЯ: Предоставление хранилища для данных

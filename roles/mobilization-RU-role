@@ -1,13 +1,13 @@
 v1 VALUES; EN: COLLECTIONS MANAGER; CONSERVATOR; LIBRARIAN; REGISTRAR; ARCHIVIST; PROJECT MANAGER; PRINCIPAL INVESTIGATOR; 
 IMAGERS; TRANSCRIBERS; QUALITY CHECKER; DATA SPECIALIST; HUMAN RESOURCES; FINANCE; DESIGNER; WEB DEVELOPER:
 CONTENT DEVELOPER; PROGRAMMER; NETWORK ADMINISTRATOR; HELPDESK; DATABASE ADMINISTRATOR; RESEARCHER [x2]
-VOLUNTEER; CURATOR; GEOGRAPHER
+VOLUNTEER; INTERN; CURATOR; GEOGRAPHER
 v2 VALUES; EN: STUDENTS; FACULTY STAFF; COMMUNICATIONS PR/MARKETING
 
 v1 ЗНАЧЕНИЯ; RU: Хранитель коллекции; Лаборанты; Библиотекарь; Регистратор образцов; Архивист; Руководитель проекта; Ведущий исследователь; 
 Оператор сканера, фотограф образцов; Расшифровщики рукописных этикеток; Контролер качества данных; Специалист по данным; Человеческие ресурсы; Бухгалтер; Дизайнер; Разработчик;
 Разработчик контента; Программист; Администратор сети; Техническая поддержка; Администратор базы данных; Исследователь [x2];
-Волонтер / Интерн; Куратор; Географ
+Волонтер; Интерн; Куратор; Географ
 v2 ЗНАЧЕНИЯ; RU: СТУДЕНТЫ; СОТРУДНИКИ ФАКУЛЬТЕТА; ИНФОРМАЦИОННЫЙ ОТДЕЛ PR/МАРКЕТИНГ
 
 ВЫВЕДЕНО ИЗ ОБРАЩЕНИЯ: 0

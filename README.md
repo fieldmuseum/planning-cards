@@ -17,4 +17,6 @@ This repository contains:
 3) Instructions and Descriptions
   -- with much assistence from Alberto Gonzalez-Talavan and Laura Russell
 
-
+4) playingcards.io online version
+  -- [Master import](https://github.com/fieldmuseum/planning-cards/blob/master/playingcards-io-export_Planning_exercise_MASTER.pcio) file to setup a playingcards.io version
+  -- Instructions on [how to add new cards to the decks](https://docs.google.com/document/d/1llcB6QoaID-hatz40hRz97-Jw3Pb-Seymofj5J7XLDs/) if you need to.
